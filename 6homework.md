@@ -1,3 +1,4 @@
+基础作业
 数据集显示
 ![image](https://github.com/ZPfree/homework/assets/16116418/ac706ca2-5b7a-4e46-8a9a-01ec54e3654f)
 正常显示各个数据的结果
